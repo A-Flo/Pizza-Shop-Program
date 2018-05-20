@@ -1,0 +1,6 @@
+U:\CPS 280 C#\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+U:\CPS 280 C#\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+U:\CPS 280 C#\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+U:\CPS 280 C#\Lab 2\Lab 2\obj\Debug\Lab 2.csprojResolveAssemblyReference.cache
+U:\CPS 280 C#\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+U:\CPS 280 C#\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
